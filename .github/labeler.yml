@@ -1,0 +1,5 @@
+# Check this out for more instructions on how to write labeler config - https://github.com/actions/labeler
+
+frontend:
+  - public/*
+  - src/**/*
